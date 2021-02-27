@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jetty:apache-jsp:11.0.1" type="repository">
+    <properties maven-id="org.eclipse.jetty:apache-jsp:11.0.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/apache-jsp-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.0-alpha1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-util-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-jsp-10.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-schemas-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-el-10.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ecj-3.24.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-annotations-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-plus-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.transaction-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-jndi-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-webapp-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-servlet-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-security-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-server-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-http-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-io-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-xml-11.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.annotation-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-commons-9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-tree-9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-analysis-9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-jakarta-servlet-api-5.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
